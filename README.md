@@ -1,0 +1,1 @@
+In this project i implemented JWT Authentication using Mysql database. I send the token in body when try to login and also send the token when try to registration. I add Exception handling for wrong username and password. Also add unsuccessful Authentication method when failed to login
